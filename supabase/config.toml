@@ -1,0 +1,4 @@
+project_id = "vavskxtbynyqmrlkdfde"
+
+[functions.symptom-triage]
+verify_jwt = false
